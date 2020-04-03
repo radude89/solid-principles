@@ -1,6 +1,8 @@
 import Foundation
 
-/// # Definition: Software entities should be open for extension, but close for modification.
+/// Open Closed Principle
+/// 
+/// # Description: Software entities should be open for extension, but close for modification.
 ///
 /// We should make our classes easy to add features to them.
 /// When writing your code you should be able to extend the behavior of your objects through inheritance, polymorphsm, and composition by implementing them using interfaces, abstractions, and dependency injection.

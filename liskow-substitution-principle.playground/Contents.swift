@@ -1,6 +1,8 @@
 import Foundation
 
-/// # Definition: Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it.
+/// Liskow Substitution Principle
+/// 
+/// # Description: Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it.
 ///
 /// The LSP is an extension of OCP and it means that we must make sure that the new derived classes are extending the base class without changing their behavior.
 ///

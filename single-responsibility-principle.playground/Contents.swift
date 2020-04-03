@@ -1,6 +1,8 @@
 import Foundation
 
-/// # Definition: Each software module or class should have only one reason to change.
+/// Single Responsibility Principle
+///
+/// # Description: Each software module or class should have only one reason to change.
 /// There should never be more than one reason for a class to change.
 ///
 /// ## Example:
